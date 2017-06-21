@@ -1,2 +1,6 @@
 # Xenlight-driver
-Atmega based driver for homemade ambient light TV system.
+Windows app: https://github.com/XenorPLxx/Xenlight
+
+Atmega16 code: https://github.com/XenorPLxx/Xenlight-driver
+
+EAGLE Schematics: https://github.com/XenorPLxx/Xenlight-board
